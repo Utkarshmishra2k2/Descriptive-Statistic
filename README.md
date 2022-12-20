@@ -1,1 +1,1 @@
-# Descriptive-Statistic
+Descriptive statistics gives us the basic summary measures about the dataset. The summary measures include measures of central tendency and measures of variability. I have used the iris dataset from the Sklearn Data Set for this Article.
